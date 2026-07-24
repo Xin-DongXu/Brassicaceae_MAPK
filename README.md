@@ -82,16 +82,6 @@ Scripts include accessions of:
 - *Brassica juncea*
 - *Brassica carinata*
 
-## Citation
-
-If you use these scripts, please cite the associated paper:
-
-> Evolutionary Dynamics and Subgroup-Biased Structural Divergence of the MAPK Gene Family in Brassicaceae
-
-(Update this section with the final journal citation, DOI, and authors when available.)
-
-You may also cite this repository via the metadata in [`CITATION.cff`](CITATION.cff).
-
 ## License
 
 This project is released under the [MIT License](LICENSE).
