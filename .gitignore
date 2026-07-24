@@ -1,0 +1,46 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large genomic / analysis outputs (keep scripts only)
+*.fa
+*.fasta
+*.fna
+*.gff
+*.gff3
+*.blast
+*.gene_type
+*.mod.EDTA.*
+*_EDTA.bed
+*_EDTA_gene.bed
+up2k_gene_down2k_beds/
+Brassica_Genomes/
+edta_chromosomes/
+orthofinder/
+mcscanx_out/
+pangenome/
+work/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+.ipynb_checkpoints/
