@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Brassicaceae MAPK TE analysis scripts"
+message: "If you use this software, please cite the associated paper and this repository."
+type: software
+authors:
+  - family-names: Xu
+    given-names: ""
+license: MIT
+repository-code: "https://github.com/USERNAME/Brassicaceae_MAPK"
+abstract: >-
+  Analysis scripts for TE annotation (EDTA), GFF3-to-BED conversion, and
+  extraction of TEs overlapping gene regions (±2 kb) in Brassica genomes,
+  accompanying the study "Evolutionary Dynamics and Subgroup-Biased Structural
+  Divergence of the MAPK Gene Family in Brassicaceae".
+keywords:
+  - Brassicaceae
+  - Brassica
+  - MAPK
+  - transposable elements
+  - EDTA
+  - genomics
+preferred-citation:
+  type: article
+  title: "Evolutionary Dynamics and Subgroup-Biased Structural Divergence of the MAPK Gene Family in Brassicaceae"
+  authors:
+    - family-names: Xu
+      given-names: ""
+  # year: 2026
+  # journal: "Plant, Cell & Environment"
+  # doi: "10.xxxx/xxxxx"
